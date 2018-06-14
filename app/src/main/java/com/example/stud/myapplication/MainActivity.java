@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity { //fdsgdsgsiuhnvfsfidsugfnvdshffs
 
     RadioButton rbOpcja1;
     RadioButton rbOpcja2;
